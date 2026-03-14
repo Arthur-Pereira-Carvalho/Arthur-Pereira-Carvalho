@@ -1,7 +1,6 @@
 # Hi 👋, I'm Arthur Pereira
 
 🚀 **Junior Backend Developer | Python & Django**  
-🇧🇷 Brazil
 
 I am a developer focused on **backend development and building real-world systems**.
 
